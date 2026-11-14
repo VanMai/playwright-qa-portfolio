@@ -1,0 +1,23 @@
+{
+  "name": "playwright-qa-portfolio",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript QA automation framework - SauceDemo (UI E2E + POM), TodoMVC (dynamic UI), Conduit (UI + REST API)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanMai/playwright-qa-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VanMai/playwright-qa-portfolio/issues"
+  },
+  "homepage": "https://github.com/VanMai/playwright-qa-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
